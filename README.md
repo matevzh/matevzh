@@ -10,3 +10,5 @@
 - Languages: Python, TypeScript, Java
 - Web: HTML, CSS, Node.js (NestJS)
 - Learning: Docker
+
+(Will start working on the farm app after exams 😴)
