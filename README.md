@@ -1,9 +1,8 @@
 # Hi, I'm Matevž 👋
 
 🎓 Computer science (informatics) student from Slovenia  
-💻 Interested in software development, networking and learning new technologies  
-🌱 Currently learning: fullstack multi-platform development  
-🚀 Goal: Get into C/C++ (Low level systems)
+💻 Interested in software development, networking, building/repairing electronics and learning new technologies    
+🚀 Goal: Get into C/C++
 
 ## 🛠️ Technologies & Tools
 
