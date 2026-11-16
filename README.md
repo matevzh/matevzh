@@ -2,7 +2,7 @@
 
 🎓 Computer science (informatics) student from Slovenia  
 💻 Interested in software development, networking, building/repairing electronics and learning new technologies    
-🚀 Goal: Get into Systems programming
+🚀 Goal: Get into systems programming
 
 ## 🛠️ Technologies & Tools
 
